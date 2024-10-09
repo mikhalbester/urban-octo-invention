@@ -1,0 +1,57 @@
+﻿Date,Traffic Source,Visits,Registrations,"Cart, No Purchase",First-Time Purchasers,2+ Transactions
+6/2/24,Direct,3218,1320,322,319,690
+6/9/24,Direct,3570,1798,357,396,630
+6/16/24,Direct,4123,1931,412,462,300
+6/23/24,Direct,4435,1050,444,385,1200
+6/30/24,Direct,7968,510,797,187,1282
+7/7/24,Direct,4510,465,451,165,300
+7/14/24,Direct,3963,900,396,330,690
+7/21/24,Direct,4465,960,447,352,780
+7/28/24,Direct,4575,510,458,187,570
+8/4/24,Direct,5298,1035,530,374,630
+8/11/24,Direct,4890,435,489,165,750
+8/18/24,Direct,4255,510,426,187,660
+8/25/24,Direct,5045,855,505,319,690
+9/1/24,Direct,5353,1122,535,291,930
+6/2/24,Push Notification,3170,75,317,22,180
+6/9/24,Push Notification,2653,165,265,55,120
+6/16/24,Push Notification,2838,120,284,33,180
+6/23/24,Push Notification,2743,105,274,33,300
+6/30/24,Push Notification,2893,285,434,88,120
+7/7/24,Push Notification,3015,915,452,77,420
+7/14/24,Push Notification,2970,964,446,66,480
+7/21/24,Push Notification,3178,135,636,44,686
+7/28/24,Push Notification,2850,270,570,88,633
+8/4/24,Push Notification,2795,165,559,55,120
+8/11/24,Push Notification,2680,105,804,33,330
+8/18/24,Push Notification,3178,240,953,77,330
+8/25/24,Push Notification,3250,165,975,55,180
+9/1/24,Push Notification,4275,134,1496,67,234
+6/2/24,Social Media,6053,135,2421,44,150
+6/9/24,Social Media,5660,225,2264,66,300
+6/16/24,Social Media,4193,120,1677,33,240
+6/23/24,Social Media,5100,180,2040,55,120
+6/30/24,Social Media,6020,225,3010,66,210
+7/7/24,Social Media,6218,180,3109,55,240
+7/14/24,Social Media,6155,90,3078,22,180
+7/21/24,Social Media,13198,210,6599,66,240
+7/28/24,Social Media,8870,135,1774,44,300
+8/4/24,Social Media,6335,1141,1267,55,90
+8/11/24,Social Media,8048,1032,1610,22,240
+8/18/24,Social Media,6735,60,674,22,657
+8/25/24,Social Media,8143,60,407,22,731
+9/1/24,Social Media,9065,88,453,76,556
+6/2/24,Internal Referrals,1305,180,48,66,390
+6/9/24,Internal Referrals,1945,285,112,110,330
+6/16/24,Internal Referrals,1593,150,131,55,360
+6/23/24,Internal Referrals,2118,210,234,77,390
+6/30/24,Internal Referrals,1758,75,26,33,60
+7/7/24,Internal Referrals,2138,105,103,44,330
+7/14/24,Internal Referrals,1870,240,233,88,90
+7/21/24,Internal Referrals,1965,90,44,33,150
+7/28/24,Internal Referrals,2008,210,85,77,270
+8/4/24,Internal Referrals,2128,255,149,99,150
+8/11/24,Internal Referrals,2033,105,47,44,60
+8/18/24,Internal Referrals,2013,240,126,88,360
+8/25/24,Internal Referrals,2255,135,202,55,120
+9/1/24,Internal Referrals,2545,201,344,41,199
